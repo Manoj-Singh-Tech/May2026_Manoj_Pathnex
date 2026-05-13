@@ -1,0 +1,11 @@
+Todays tasks
+3 Hour - Online Class
+1 Hour - write, push and try to understand code with the chat gpt
+3 hour - watch morning class video, make EKS instance on AWS and make notes
+30 min - Evening Session
+
+Tomorrow tasks
+3 Hour - Online Class
+2 Hour - write, push and try to understand code with the chat gpt
+2 hour - Do kubernetes practice
+3 hour - watch video and make notes
