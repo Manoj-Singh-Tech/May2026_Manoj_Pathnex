@@ -1,0 +1,12 @@
+Todays tasks
+3 Hour - Watch last month online Class and make notes
+.5 Hour - Coding practice with chatgpt (pipeline → stages → stage → steps → command)
+1 Hour - write, push and try to understand code with the chat gpt
+3 hour - watch other youtube videos on EKS instance on AWS 
+30 min - Evening Session
+
+Tomorrow tasks
+3 Hour - Online Class
+2 Hour - write, push and try to understand code with the chat gpt
+2 hour - Do kubernetes practice
+3 hour - watch video and make notes
